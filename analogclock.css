@@ -10,7 +10,7 @@ body{
    display: flex;
    justify-content: center;
    align-items: center;
-   background-image:url(https://t4.ftcdn.net/jpg/01/26/83/63/360_F_126836354_83QSwGzlgcDLvHxJrCEKgcEcQsHRC7sA.jpg);
+   background-image:url("https://t4.ftcdn.net/jpg/01/26/83/63/360_F_126836354_83QSwGzlgcDLvHxJrCEKgcEcQsHRC7sA.jpg");
 }
 .caintainer{
     position: relative;
